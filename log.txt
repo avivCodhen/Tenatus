@@ -1,0 +1,180 @@
+2020-04-07 16:34:49.152 +03:00 [INF] Buying... results is: True
+2020-04-07 16:43:50.960 +03:00 [INF] Selling... results is: True
+2020-04-07 17:01:01.777 +03:00 [INF] Buying... results is: True
+2020-04-07 20:02:12.675 +03:00 [INF] Selling... results is: True
+2020-04-07 20:17:28.564 +03:00 [INF] Buying... results is: True
+2020-04-08 16:49:09.561 +03:00 [INF] Buying... results is: True
+2020-04-13 17:05:14.894 +03:00 [INF] Buying... results is: True
+2020-04-13 17:10:00.674 +03:00 [INF] Selling... results is: True
+2020-04-13 17:10:28.905 +03:00 [INF] Buying... results is: True
+2020-04-13 17:11:04.574 +03:00 [INF] Selling... results is: True
+2020-04-13 17:12:07.885 +03:00 [INF] Buying... results is: True
+2020-04-14 09:03:55.809 +03:00 [INF] Selling 2 fb share(s). Price: 173.43...
+2020-04-14 17:47:09.811 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 17:47:12.343 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.80. results is True.
+2020-04-14 17:47:17.237 +03:00 [INF] Selling 1 qqq share(s). Price: 209.84...
+2020-04-14 17:47:19.171 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.80
+2020-04-14 17:49:07.009 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 17:49:21.247 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.67. results is True.
+2020-04-14 17:49:33.845 +03:00 [INF] Selling 1 qqq share(s). Price: 209.71...
+2020-04-14 17:49:38.806 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.67
+2020-04-14 17:51:00.974 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 17:51:09.119 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.78. results is True.
+2020-04-14 17:51:47.209 +03:00 [INF] Selling 1 qqq share(s). Price: 209.81...
+2020-04-14 17:52:00.981 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.78
+2020-04-14 17:54:18.448 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 17:54:36.497 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.63. results is True.
+2020-04-14 18:01:20.939 +03:00 [INF] Selling 1 qqq share(s). Price: 209.66...
+2020-04-14 18:01:26.311 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.63
+2020-04-14 18:03:01.656 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 18:03:21.623 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.75. results is True.
+2020-04-14 19:00:47.395 +03:00 [INF] Selling 1 qqq share(s). Price: 209.85...
+2020-04-14 19:00:57.627 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.75
+2020-04-14 19:05:18.138 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 19:05:35.680 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 210.08. results is True.
+2020-04-14 19:07:20.471 +03:00 [INF] Selling 1 qqq share(s). Price: 210.13...
+2020-04-14 19:07:27.788 +03:00 [INF] SOLD 1 qqq share(s). Price: 210.08
+2020-04-14 19:13:55.685 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 19:15:10.635 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.97. results is True.
+2020-04-14 19:15:10.670 +03:00 [INF] Selling 1 qqq share(s). Price: 210.02...
+2020-04-14 19:16:11.475 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.97
+2020-04-14 19:27:19.743 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 19:27:23.142 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 210.72. results is True.
+2020-04-14 19:29:39.667 +03:00 [INF] Selling 1 qqq share(s). Price: 210.75...
+2020-04-14 19:30:18.135 +03:00 [INF] SOLD 1 qqq share(s). Price: 210.72
+2020-04-14 19:31:20.917 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 19:31:22.071 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 210.71. results is True.
+2020-04-14 19:32:22.379 +03:00 [INF] Selling 1 qqq share(s). Price: 210.74...
+2020-04-14 19:32:23.483 +03:00 [INF] SOLD 1 qqq share(s). Price: 210.71
+2020-04-14 19:34:18.130 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-14 19:35:18.761 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 210.63. results is True.
+2020-04-14 19:35:21.120 +03:00 [INF] Selling 1 qqq share(s). Price: 210.71...
+2020-04-14 19:35:24.141 +03:00 [INF] SOLD 1 qqq share(s). Price: 210.63
+2020-04-15 16:42:21.776 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 16:42:22.618 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.39. results is True.
+2020-04-15 17:11:33.514 +03:00 [INF] Selling 1 qqq share(s). Price: 208.42...
+2020-04-15 17:11:35.663 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.39
+2020-04-15 17:11:41.528 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:12:11.784 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.34. results is True.
+2020-04-15 17:13:56.274 +03:00 [INF] Selling 1 qqq share(s). Price: 208.37...
+2020-04-15 17:13:57.010 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.34
+2020-04-15 17:14:04.377 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:14:05.677 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.29. results is True.
+2020-04-15 17:15:28.207 +03:00 [INF] Selling 1 qqq share(s). Price: 208.32...
+2020-04-15 17:15:47.309 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.29
+2020-04-15 17:15:54.241 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:15:55.003 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.20. results is True.
+2020-04-15 17:23:51.929 +03:00 [INF] Selling 1 qqq share(s). Price: 208.23...
+2020-04-15 17:24:53.594 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.20
+2020-04-15 17:25:53.520 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:25:55.762 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.27. results is True.
+2020-04-15 17:26:06.315 +03:00 [INF] Selling 1 qqq share(s). Price: 208.30...
+2020-04-15 17:26:07.454 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.27
+2020-04-15 17:27:46.020 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:27:57.064 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.06. results is True.
+2020-04-15 17:27:57.269 +03:00 [INF] Selling 1 qqq share(s). Price: 208.09...
+2020-04-15 17:28:14.978 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.06
+2020-04-15 17:29:51.213 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:29:56.088 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.21. results is True.
+2020-04-15 17:30:21.546 +03:00 [INF] Selling 1 qqq share(s). Price: 208.24...
+2020-04-15 17:30:55.358 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.21
+2020-04-15 17:34:50.431 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:35:02.555 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.15. results is True.
+2020-04-15 17:35:45.472 +03:00 [INF] Selling 1 qqq share(s). Price: 208.18...
+2020-04-15 17:35:47.209 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.15
+2020-04-15 17:36:32.481 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:36:33.648 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.26. results is True.
+2020-04-15 17:42:31.761 +03:00 [INF] Selling 1 qqq share(s). Price: 208.29...
+2020-04-15 17:42:39.675 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.26
+2020-04-15 17:44:38.627 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:44:40.583 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.50. results is True.
+2020-04-15 17:44:40.649 +03:00 [INF] Selling 1 qqq share(s). Price: 208.53...
+2020-04-15 17:45:05.724 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.50
+2020-04-15 17:47:12.865 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:47:26.051 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.55. results is True.
+2020-04-15 17:47:26.073 +03:00 [INF] Selling 1 qqq share(s). Price: 208.59...
+2020-04-15 17:47:42.030 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.55
+2020-04-15 17:49:05.064 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:49:06.928 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.84. results is True.
+2020-04-15 17:49:26.471 +03:00 [INF] Selling 1 qqq share(s). Price: 208.90...
+2020-04-15 17:49:43.573 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.84
+2020-04-15 17:50:03.350 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:50:04.489 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 208.93. results is True.
+2020-04-15 17:51:45.746 +03:00 [INF] Selling 1 qqq share(s). Price: 208.96...
+2020-04-15 17:52:06.866 +03:00 [INF] SOLD 1 qqq share(s). Price: 208.93
+2020-04-15 17:54:09.255 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:54:10.421 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.05. results is True.
+2020-04-15 17:54:53.424 +03:00 [INF] Selling 1 qqq share(s). Price: 209.11...
+2020-04-15 17:54:58.693 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.05
+2020-04-15 17:57:15.885 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 17:59:46.415 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.17. results is True.
+2020-04-15 17:59:51.745 +03:00 [INF] Selling 1 qqq share(s). Price: 209.20...
+2020-04-15 18:00:00.361 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.17
+2020-04-15 18:00:57.744 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 18:01:00.999 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.17. results is True.
+2020-04-15 18:01:02.048 +03:00 [INF] Selling 1 qqq share(s). Price: 209.21...
+2020-04-15 18:01:04.024 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.17
+2020-04-15 18:01:13.612 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 18:01:32.821 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.13. results is True.
+2020-04-15 18:12:18.105 +03:00 [INF] Selling 1 qqq share(s). Price: 209.17...
+2020-04-15 18:12:37.109 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.13
+2020-04-15 18:13:58.323 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 18:14:06.147 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.07. results is True.
+2020-04-15 18:14:12.836 +03:00 [INF] Selling 1 qqq share(s). Price: 209.10...
+2020-04-15 18:14:37.244 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.07
+2020-04-15 18:15:21.751 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 18:15:22.705 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.02. results is True.
+2020-04-15 19:34:07.207 +03:00 [INF] Selling 1 qqq share(s). Price: 209.07...
+2020-04-15 19:34:18.540 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.07
+2020-04-15 19:35:54.585 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 19:36:20.077 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.02. results is True.
+2020-04-15 19:37:13.045 +03:00 [INF] Selling 1 qqq share(s). Price: 209.07...
+2020-04-15 19:37:20.100 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.07
+2020-04-15 19:38:48.340 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 19:39:24.123 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.02. results is True.
+2020-04-15 19:39:24.161 +03:00 [INF] Selling 1 qqq share(s). Price: 209.06...
+2020-04-15 19:43:24.224 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.06
+2020-04-15 19:45:12.716 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 19:45:43.012 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.17. results is True.
+2020-04-15 19:48:35.563 +03:00 [INF] Selling 1 qqq share(s). Price: 209.20...
+2020-04-15 19:48:36.767 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.20
+2020-04-15 19:53:24.927 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 19:53:56.981 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.32. results is True.
+2020-04-15 19:53:57.009 +03:00 [INF] Selling 1 qqq share(s). Price: 209.36...
+2020-04-15 19:54:44.867 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.36
+2020-04-15 19:56:46.097 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 19:56:49.289 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.13. results is True.
+2020-04-15 19:57:01.312 +03:00 [INF] Selling 1 qqq share(s). Price: 209.16...
+2020-04-15 19:57:02.394 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.16
+2020-04-15 20:02:32.557 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:02:54.641 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.24. results is True.
+2020-04-15 20:10:24.922 +03:00 [INF] Selling 1 qqq share(s). Price: 209.29...
+2020-04-15 20:12:12.673 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.29
+2020-04-15 20:15:48.449 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:16:10.191 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.34. results is True.
+2020-04-15 20:17:01.864 +03:00 [INF] Selling 1 qqq share(s). Price: 209.41...
+2020-04-15 20:17:10.604 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.41
+2020-04-15 20:21:46.241 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:23:12.443 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.36. results is True.
+2020-04-15 20:23:16.356 +03:00 [INF] Selling 1 qqq share(s). Price: 209.39...
+2020-04-15 20:24:12.824 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.39
+2020-04-15 20:31:22.687 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:38:28.383 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.11. results is True.
+2020-04-15 20:40:35.174 +03:00 [INF] Selling 1 qqq share(s). Price: 209.16...
+2020-04-15 20:40:44.565 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.16
+2020-04-15 20:45:27.870 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:45:36.335 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.33. results is True.
+2020-04-15 20:46:42.167 +03:00 [INF] Selling 1 qqq share(s). Price: 209.40...
+2020-04-15 20:46:43.208 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.40
+2020-04-15 20:49:00.696 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:49:42.344 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.49. results is True.
+2020-04-15 20:50:07.694 +03:00 [INF] Selling 1 qqq share(s). Price: 209.53...
+2020-04-15 20:50:38.847 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.53
+2020-04-15 20:54:09.271 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:54:45.951 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.43. results is True.
+2020-04-15 20:55:12.376 +03:00 [INF] Selling 1 qqq share(s). Price: 209.48...
+2020-04-15 20:55:46.306 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.48
+2020-04-15 20:56:17.533 +03:00 [INF] Buying 1 qqq share(s). Price: 0.
+2020-04-15 20:56:43.429 +03:00 [INF] BOUGHT 1 qqq share(s). Price: 209.28. results is True.
+2020-04-15 20:58:34.710 +03:00 [INF] Selling 1 qqq share(s). Price: 209.31...
+2020-04-15 20:58:44.849 +03:00 [INF] SOLD 1 qqq share(s). Price: 209.31
